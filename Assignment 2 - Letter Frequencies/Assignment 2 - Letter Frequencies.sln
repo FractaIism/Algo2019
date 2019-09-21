@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assignment 2 - Letter Frequencies", "Assignment 2 - Letter Frequencies\Assignment 2 - Letter Frequencies.vcxproj", "{C977EB15-DDCE-4B23-8B5F-A9C5525BCA0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C977EB15-DDCE-4B23-8B5F-A9C5525BCA0E}.Debug|x64.ActiveCfg = Debug|x64
+		{C977EB15-DDCE-4B23-8B5F-A9C5525BCA0E}.Debug|x64.Build.0 = Debug|x64
+		{C977EB15-DDCE-4B23-8B5F-A9C5525BCA0E}.Debug|x86.ActiveCfg = Debug|Win32
+		{C977EB15-DDCE-4B23-8B5F-A9C5525BCA0E}.Debug|x86.Build.0 = Debug|Win32
+		{C977EB15-DDCE-4B23-8B5F-A9C5525BCA0E}.Release|x64.ActiveCfg = Release|x64
+		{C977EB15-DDCE-4B23-8B5F-A9C5525BCA0E}.Release|x64.Build.0 = Release|x64
+		{C977EB15-DDCE-4B23-8B5F-A9C5525BCA0E}.Release|x86.ActiveCfg = Release|Win32
+		{C977EB15-DDCE-4B23-8B5F-A9C5525BCA0E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8F74409-85AB-4589-92C9-6C7F5A89E368}
+	EndGlobalSection
+EndGlobal
