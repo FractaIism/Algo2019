@@ -15,7 +15,7 @@ int main()
 			cin >> S[i];
 		}
 		GenerateSelection(S, sel);
-	}
+	} 
 	return 0;
 }
 
