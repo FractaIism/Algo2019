@@ -16,7 +16,7 @@ int main()
 		}
 		GenerateSelection(S, sel);
 		cout << '\n';
-	}
+	} 
 	return 0;
 }
 
@@ -35,7 +35,7 @@ void GenerateSelection(const vector<int>& S, vector<int> sel)
 		return;
 	}
 
-	for (sel.push_back(sel.back() + 1); sel.back() + (6 - sel.size()) <= k - 1; ++sel.back()) {
+	for (sel.push_back(sel.back()+1); sel.back() + (6 - sel.size()) <= k - 1; ++sel.back()) {
 		GenerateSelection(S, sel);
 	}
 	return;
@@ -46,6 +46,6 @@ void PrintSelection(const vector<int>& S, const vector<int>& sel)
 	for (int i = 0; i < sel.size(); ++i) {
 		cout << S[sel[i]] << ' ';
 	}
-	cout << '\n';
+	cout<<'\n';
 	return;
 }
