@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Assignment 1 - Recurrences.cpp">
+    <ClCompile Include="Assignment 1 - Recurrences [ Brute Force ].cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment 1 - Recurrences [ Recursive ].cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
